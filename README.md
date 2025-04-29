@@ -17,9 +17,3 @@ A simple EDA project to analyze customer behavior and sales trends during the Di
 
 - Gender, Age, State, Marital Status
 - Occupation, Product Category, Purchase Amount
-
-## 📊 Key Findings
-
-- Most buyers: Married women aged 26-35
-- Top states: Uttar Pradesh, Maharashtra, Karnataka
-- High sales in clothing and electronics
